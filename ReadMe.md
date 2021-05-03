@@ -1,6 +1,6 @@
 # ETH-computer-vision
 
-## Weekly assignments submitted for the course on Computer Vision by Prof. Luc Van Gool, Prof. Marc Pollefeys, and Prof. Vittorio Ferrari during Oct-Dec, 2019.
+#### Weekly assignments submitted for the course on Computer Vision by Prof. Luc Van Gool, Prof. Marc Pollefeys, and Prof. Vittorio Ferrari during Oct-Dec, 2019.
 
 Project 1: Geometry & Camera Models
 
